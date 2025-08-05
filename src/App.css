@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+  font-family: sans-serif;
+  margin-top: 2rem;
+}
+
+textarea {
+  padding: 10px;
+  font-size: 1rem;
+  width: 70%;
+}
+
+button {
+  padding: 10px 20px;
+  margin-top: 1rem;
+  font-size: 1rem;
+  cursor: pointer;
+}
