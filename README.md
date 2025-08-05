@@ -7,4 +7,8 @@ Steps to create folder and install necessary packages:
 
 Then further to install
 1. npm install axios
+
+
+Then create .env file as : 👇🏻👇🏻
+VITE_HUGGINGFACE_API_KEY = "Your Hugging Face API Key"
    
